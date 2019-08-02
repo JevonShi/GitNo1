@@ -1,0 +1,85 @@
+
+{
+  "emojis": [
+      {
+        "id": 1002,
+        "key": "sad",
+		"icon": "emoticon/sad/index.png",
+        "animation": "emoticon/sad/animation/cry.skel",
+		"app_animation": "emoticon/sad/app_animation/index.json",
+        "audio": "emoticon/sad/index.mp3"
+      },
+      {
+        "id": 1001,
+        "key": "happy",
+        "icon": "emoticon/happy/index.png",
+		"animation": "emoticon/happy/animation/click.skel",
+		"app_animation": "emoticon/happy/app_animation/click.json",
+        "audio": "emoticon/happy/index.mp3"
+      }
+  ],
+  "moreEmojis": [
+    {
+      "id": 1002,
+      "key": "sad",
+  "icon": "emoticon/sad/index.png",
+      "animation": "emoticon/sad/animation/cry.skel",
+  "app_animation": "emoticon/sad/app_animation/index.json",
+      "audio": "emoticon/sad/index.mp3"
+    },
+    {
+      "id": 1001,
+      "key": "happy",
+      "icon": "emoticon/happy/index.png",
+  "animation": "emoticon/happy/animation/click.skel",
+  "app_animation": "emoticon/happy/app_animation/click.json",
+      "audio": "emoticon/happy/index.mp3"
+    },
+    {
+      "id": 1001,
+      "key": "happy",
+      "icon": "emoticon/happy/index.png",
+  "animation": "emoticon/happy/animation/click.skel",
+  "app_animation": "emoticon/happy/app_animation/click.json",
+      "audio": "emoticon/happy/index.mp3"
+    },
+    {
+      "id": 1001,
+      "key": "happy",
+      "icon": "emoticon/happy/index.png",
+  "animation": "emoticon/happy/animation/click.skel",
+  "app_animation": "emoticon/happy/app_animation/click.json",
+      "audio": "emoticon/happy/index.mp3"
+    },
+    {
+      "id": 1001,
+      "key": "happy",
+      "icon": "emoticon/happy/index.png",
+  "animation": "emoticon/happy/animation/click.skel",
+  "app_animation": "emoticon/happy/app_animation/click.json",
+      "audio": "emoticon/happy/index.mp3"
+    }
+  ],
+  "texts": [
+    {
+      "id": 2001,
+      "text": "Good luck!"
+    },
+    {
+      "id": 2002,
+      "text": "Cool"
+    },
+    {
+      "id": 2002,
+      "text": "Cool"
+    },
+    {
+      "id": 2002,
+      "text": "Cool"
+    },
+    {
+      "id": 2002,
+      "text": "Cool"
+    }
+  ]
+  }

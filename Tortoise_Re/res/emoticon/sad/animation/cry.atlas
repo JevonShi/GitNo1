@@ -1,0 +1,48 @@
+
+cry.png
+size: 119,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 44
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 25
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 75, 32
+  size: 85, 29
+  orig: 85, 29
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 106, 91
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+tears
+  rotate: false
+  xy: 53, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1

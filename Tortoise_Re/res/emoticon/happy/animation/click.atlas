@@ -1,0 +1,48 @@
+
+click.png
+size: 126,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_02
+  rotate: false
+  xy: 2, 57
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 75, 113
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 75, 65
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: false
+  xy: 2, 16
+  size: 97, 39
+  orig: 97, 39
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 75, 94
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+rouge_02
+  rotate: false
+  xy: 2, 3
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1

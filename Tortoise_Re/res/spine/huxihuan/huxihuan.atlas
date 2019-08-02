@@ -1,0 +1,13 @@
+
+huxihuan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 2
+  size: 124, 124
+  orig: 130, 130
+  offset: 3, 3
+  index: -1
